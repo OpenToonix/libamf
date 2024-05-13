@@ -33,7 +33,7 @@
     "body-parser": "^1.19.0",
     "bytearray-node": "github:pyrodash/bytearray-node",
     "express": "^4.17.1",
-    "fast-xml-parser": "^3.12.20"
+    "fast-xml-parser": "^4.1.2"
   },
   "devDependencies": {
     "tape": "^4.11.0"
